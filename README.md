@@ -20,7 +20,7 @@ Git Automation Script by Gagan Yadav @ github.com/gaganyadav80
      -y [--yes]         : skip confirmation prompt for all automation actions 
 ```
 
-To use it as a CLI tool give permission and copy to path
+To use it as a CLI tool give permission and copy to `PATH`
 ```
 //change the name as per your choice doesn't effect the functioning
 
