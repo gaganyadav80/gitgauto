@@ -1,3 +1,7 @@
+This project was created for learning purpose only. **Please do not use in production environment.**
+
+---
+
 # gitgauto
 A simple to use git CLI automation using python
 
